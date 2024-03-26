@@ -1,6 +1,6 @@
-import Footer from './components/Footer'
-import Header from './components/Header'
 import { Inter } from 'next/font/google'
+import Header from './components/templates/Header'
+import Footer from './components/templates/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
